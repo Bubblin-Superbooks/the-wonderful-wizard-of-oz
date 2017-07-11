@@ -1,0 +1,10 @@
+{
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "name": "The Wonderful Wizard of Oz",
+  "type": "text"
+}
